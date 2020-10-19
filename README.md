@@ -1,1 +1,1 @@
-# 00inclass-firstGitHubRepo-veusch
+Verena Eusch
