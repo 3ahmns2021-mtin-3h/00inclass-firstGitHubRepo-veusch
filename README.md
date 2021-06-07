@@ -4,7 +4,7 @@
 First GitHub Repository
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(OS, Unity Version, Visual Studio Version, used SDKs) Unity Project Version 2020.1.5f1
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
